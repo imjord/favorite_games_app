@@ -1,0 +1,17 @@
+nav {
+    background-color: #171a21;
+    color: #c5c3c0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 2rem;
+}
+
+.right {
+    padding: 0.5rem;
+    font-size: 20px;
+}
+
+#icon {
+    margin-right: 10px;
+}
