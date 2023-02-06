@@ -12,7 +12,7 @@
   },
   "tauri": {
     "allowlist": {
-      "all": false,
+      "all": true,
       "shell": {
         "all": false,
         "open": true
@@ -60,11 +60,12 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 1000,
         "resizable": true,
         "title": "favorite-games",
-        "width": 800
+        "width": 1380
       }
     ]
+    
   }
 }
